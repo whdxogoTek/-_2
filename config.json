@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "대표발의자 국회의원과 공동발의자 국회의원들 간의 관계",
-    "colorLabel": "당선방법",
+    "colorLabel": "당선방법 (초록: 지역구, 파랑: 비례대표)",
     "nodeLabel": "대표발의자, 공동발의자"
   },
   "features": {
